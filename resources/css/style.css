@@ -2,15 +2,13 @@
      background-color: black;
      color: white;
      text-align: center;
+     font-family: Verdana, Geneva, Tahoma, sans-serif;
  }
  h1 {
-     font-family: Verdana;
- }
-#mainHeading {
     font-weight: normal;
     font-size: 50px;
-}
-#middleHeading {
+ }
+h2 {
     font-weight: 300;
     font-size: 42px;
 }
@@ -18,7 +16,7 @@ a {
     color: aquamarine;
     font-size: 16px;
 }
-#para {
+p {
     font-family: Verdana;
     font-size: 21px;
     color: gray;
